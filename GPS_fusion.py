@@ -5,8 +5,23 @@ import time
 import pigpio
 from micropyGPS import MicropyGPS
 
-#参考サイト　https://yyousuke.github.io/matplotlib/cartopy.html
-#https://www.youtube.com/watch?v=Akg5iG3gInw&list=LL&index=3
+"""
+参考サイト　https://yyousuke.github.io/matplotlib/cartopy.html
+https://www.youtube.com/watch?v=Akg5iG3gInw&list=LL&index=3
+To install pyserial:
+sudo python3 -m pip3 install pyserial
+
+To install pynmea2:
+pip3 install pynmea2
+
+To install cartopy:
+pip install proj geos
+pip3 install --upgrade cython numpy pyshp six
+pip3 install shapely --no-binary shapely
+apt-get install libproj-dev libgeos-dev
+sudo apt-get install python3-gi-cairo
+sudo pip3 install cartopy
+"""
     
 
 
