@@ -21,6 +21,9 @@ pip3 install shapely --no-binary shapely
 apt-get install libproj-dev libgeos-dev
 sudo apt-get install python3-gi-cairo
 sudo pip3 install cartopy
+
+参考になるかもサイト
+http://ty21ky.web.fc2.com/python/map_cartopy/Map_tile.html
 """
     
 
