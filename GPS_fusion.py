@@ -23,7 +23,10 @@ sudo apt-get install python3-gi-cairo
 sudo pip3 install cartopy
 
 参考になるかもサイト
+https://metpost.hatenablog.com/entry/2015/11/05/180006
 http://ty21ky.web.fc2.com/python/map_cartopy/Map_tile.html
+https://qiita.com/convection/items/6d5fa546d81fd5c9b452
+https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=15a650fb2f79dea3ec4ec27770174579d3de390a&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f79656c6c6f776d6574656f722f6d65745f707974686f6e2e6769746875622e696f2f313561363530666232663739646561336563346563323737373031373435373964336465333930612f706c6f745f6e622f636172746f70795f706c6f742e6970796e62&logged_in=false&nwo=yellowmeteor%2Fmet_python.github.io&path=plot_nb%2Fcartopy_plot.ipynb&platform=android&repository_id=177980738&repository_type=Repository&version=105
 """
     
 
